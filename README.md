@@ -3,8 +3,9 @@
 <!-- Header -->
 # 👋 Hi, I'm Chi-An (Oscar) Fu
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🎓+Senior+EE+Student+%40+National+Taiwan+University;🔬+Research+Intern+%40+NTU+%26+UIUC+%26+Academia+Sinica;🤖+Building+Robust+AI+Systems+for+the+Real+World)](https://git.io/typing-svg)
+🎓 Senior EE Student @ National Taiwan University<br/>
+🔬 Research Intern @ NTU & UIUC & Academia Sinica<br/>
+🤖 Building Robust AI Systems for the Real World<br/>
 
 <!-- Social Badges -->
 <p>
@@ -55,7 +56,7 @@ fun_fact: I bridge theoretical ML research with practical applications 🌉
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div>
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -85,15 +86,15 @@ fun_fact: I bridge theoretical ML research with practical applications 🌉
 
 
 
-## 📊 GitHub Statistics
+<!-- ## 📊 GitHub Statistics
 
 <div align="center">
   
 ![unabashed0501's Stats](https://github-readme-stats.vercel.app/api?username=unabashed0501&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-<!-- ![unabashed0501's Streak](https://github-readme-streak-stats.herokuapp.com/?user=unabashed0501&theme=dracula&hide_border=true) -->
+![unabashed0501's Streak](https://github-readme-streak-stats.herokuapp.com/?user=unabashed0501&theme=dracula&hide_border=true)
 ![unabashed0501's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unabashed0501&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
-</div>
+</div> -->
 
 
 <!-- ## 🏆 GitHub Trophies
