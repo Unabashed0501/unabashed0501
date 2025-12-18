@@ -1,10 +1,13 @@
-<div align="center">
+<div >
 
 <!-- Header -->
 # 👋 Hi, I'm Chi-An (Oscar) Fu
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=e5e7eb&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🎓+Senior+EE+Student+%40+National+Taiwan+University;🔬+Research+Intern+%40+NTU+%26+UIUC+%26+Academia+Sinica;🤖+Building+Robust+AI+Systems+for+the+Real+World)](https://git.io/typing-svg)
+<!-- Typing Animation (dark/light mode aware) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🎓+Senior+EE+Student+%40+National+Taiwan+University;🔬+Research+Intern+%40+NTU+%26+UIUC+%26+Academia+Sinica;🤖+Building+Robust+AI+Systems+for+the+Real+World"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🎓+Senior+EE+Student+%40+National+Taiwan+University;🔬+Research+Intern+%40+NTU+%26+UIUC+%26+Academia+Sinica;🤖+Building+Robust+AI+Systems+for+the+Real+World"/>
+</picture>
 
 <!-- Social Badges -->
 <p>
